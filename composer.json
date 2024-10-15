@@ -1,7 +1,7 @@
 {
-    "name": "lekoala/silverstripe-sparkpost",
+    "name": "hpadev/silverstripe-sparkpost",
     "description": "SparkPost integration for SilverStripe CMS",
-    "type": "silverstripe-module",
+    "type": "library",
     "keywords": [
         "silverstripe",
         "sparkpost",
