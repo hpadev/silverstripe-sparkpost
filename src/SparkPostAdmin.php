@@ -55,7 +55,7 @@ class SparkPostAdmin extends LeftAndMain implements PermissionProvider
 
     private static $menu_title = "SparkPost";
     private static $url_segment = "sparkpost";
-    private static $menu_icon = "sparkpost/images/sparkpost-icon.png";
+    private static $menu_icon = "vendor/hpadev/silverstripe-sparkpost/images/sparkpost-icon.png";
     private static $url_rule = '/$Action/$ID/$OtherID';
     private static $allowed_actions = [
         'settings',
